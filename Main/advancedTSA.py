@@ -1,6 +1,6 @@
 """
 Workshop in Communication Networks - Final Project
-Laith Abu-Omar , Abdelmoute Ewiwi 
+Laith Abu-Omar , Abed Ewiwi 
 advancedTSA.py -- Part 3
 """
 
