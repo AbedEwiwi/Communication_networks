@@ -1,6 +1,6 @@
 """
 Workshop in Communication Networks - Final Project
-Laith Abu-Omar [08609931-4] (abuhisham), Abdelmoute Ewiwi [30851125-2] (abdele)
+Laith Abu-Omar , Abed Ewiwi 
 basic3LevelTSA.py -- Parts 1 & 2
 """
 
